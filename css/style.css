@@ -198,7 +198,9 @@ input[type=submit] {
 }
 .logo-pos{
     float: left;
-    padding-left: 9.5%;
+    position: fixed;
+    top: 0px;
+    left: -120px;
 }
 .pad-down{
     padding-top: 20px;
